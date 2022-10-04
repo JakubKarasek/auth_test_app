@@ -1,1 +1,1 @@
-An auth app for testing purposes. Logout, secrets creation to be implemented.
+An auth app for testing purposes. Secrets creation to be implemented.
